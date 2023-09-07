@@ -6,7 +6,7 @@ maven-employee-web-application.
  - https://maven.apache.org/pom.html
  - https://maven.apache.org/settings.html
 
-### How to build
+#### How to build
 ```
 docker build -t employee:4.0 .
 ```
